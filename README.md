@@ -21,6 +21,8 @@ github: https://github.com/comcel1/password-generator.git
 ## Screenshot
 ![Screen Shot 2022-01-02 at 10 52 13 PM](https://user-images.githubusercontent.com/90969624/147901331-5d5e52ea-3049-4bf1-8dc9-7fd00d4afd22.png)
 
+## NOTE: 
+I had a problem with github pages displaying the README file rather than the HTML file and had to rebuild the repository, which made me lose all of the commits along the way.
 
 ## Contribution
 Submitted by Paul Nelson </br>
